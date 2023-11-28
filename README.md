@@ -17,8 +17,8 @@ Principais projetos a serem destacados na área ambiental:
 <br/>
 <div>
   <a href="https://github.com/fernandessfae/"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandessfae&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandessfae&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandessfae&&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandessfae&&layout=compact&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br/>
