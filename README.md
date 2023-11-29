@@ -9,7 +9,6 @@
 ## Projetos
 Principais projetos a serem destacados na área ambiental:
 
-* **Análise de dados sobre as licenças ambientais emitidas pelo IBAMA:** https://l1nq.com/Djl7f
 * **Análise de dados sobre as barragens de mineração no Brasil e sua classificação quanto aos riscos:** https://acesse.dev/93DiB
 <br/>
 
