@@ -10,6 +10,9 @@
 Principais projetos a serem destacados na área ambiental:
 
 * **Análise de dados sobre as barragens de mineração no Brasil e sua classificação quanto aos riscos:** https://acesse.dev/93DiB
+* **Análise dos dados sobre as unidades de conservação no Brasil:** https://encurtador.com.br/wB4Q9
+* **Recursos de compensação financeira para unidades de conservação no Brasil:** https://encurtador.com.br/PLUqA
+* **Supressão de vegetação não florestal no bioma amazônia:** https://encurtador.com.br/FxRPc
 <br/>
 
 ## Histórico de fluxo de trabalho dos projetos 
